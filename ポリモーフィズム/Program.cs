@@ -1,4 +1,7 @@
-﻿//抽象クラスEmployeeを定義
+﻿using System;
+using System.Collections.Generic;
+
+//抽象クラスEmployeeを定義
 abstract class Employee
 {
     public string Id { get; set; }
